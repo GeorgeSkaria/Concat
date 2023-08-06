@@ -19,17 +19,17 @@ This repository contains a simple web application that uses Gradio, OpenAI, and 
 
 How the tool works
 When the user clicks on the submit button,Output is supposed to display on the output field. User input is fetched through openai API key. 
+
 Libraries Used
 To run this application locally, you'll need the following:
-
-Python (>= 3.6)
-OpenAI
-Gradio
-OpenAI GPT-3 API key
+1.Python (>= 3.6)
+2.OpenAI
+3.Gradio
+4.OpenAI GPT-3 API key
 How to configure and Run
 Clone this repository to your local machine.
 
 Install the required Python packages using pip:
 
-pip install -r requirements.txt
-To run the code type:- python app.py
+1.pip install -r requirements.txt
+2.To run the code type:- python app.py
